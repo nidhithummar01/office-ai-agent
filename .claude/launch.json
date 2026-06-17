@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "office-ai-poc",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "port": 3300,
+      "cwd": "D:\\Jashom\\POC\\office-ai-poc"
+    }
+  ]
+}
